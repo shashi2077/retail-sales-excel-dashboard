@@ -1,6 +1,6 @@
 # Analysis Notes
 
-## Portfolio dataset summary
+## Dataset Summary
 
 - Transactions: **600**
 - Total Revenue: **₹1,06,70,943**
@@ -10,15 +10,14 @@
 - Highest-revenue category: **Furniture**
 - Highest-revenue month: **2025-11**
 
-## Questions answered
+## Questions Answered
 
 1. Which region contributes the most revenue?
 2. Which product categories generate the most revenue?
-3. How do monthly revenue and profit trend?
+3. How does revenue change by month?
 4. What is the overall profit margin?
-5. Which dimensions should management monitor regularly?
 
-## Excel practice formulas
+## Core Excel Formulas
 
 ```excel
 =H2*I2*(1-J2)
@@ -26,9 +25,8 @@
 =M2-N2
 =SUMIF($C:$C,A2,$M:$M)
 =COUNTIF($C:$C,A2)
-=IFERROR(Profit/Revenue,0)
 ```
 
-## Business interpretation
+## Interpretation
 
-The dashboard is designed for management review rather than row-by-row inspection. KPI cards give an immediate business snapshot, while region/category/month views help identify where performance is concentrated and where deeper investigation may be useful.
+Region, category and monthly summaries make it easier to compare where revenue and profit are concentrated.
