@@ -92,12 +92,6 @@ Example Excel formulas:
 - **November 2025** was the highest-revenue month.
 - Overall profit margin was approximately **34.7%**.
 
-## Interview Explanation
-
-A concise way to explain this project:
-
-> I analyzed 600 retail transactions in Excel. I structured the raw data, calculated revenue, cost and profit, summarized performance by region, category and month, and designed a management dashboard. The analysis helped identify the strongest region, category and monthly performance trends.
-
 ## Resume-Ready Project Entry
 
 **Retail Sales Performance Dashboard | Excel**
