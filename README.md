@@ -1,33 +1,24 @@
-# Retail Sales Excel Dashboard
+# Retail Sales Analysis
 
 ![Dashboard Preview](dashboard_preview.svg)
 
 ## Project Overview
 
-This portfolio project analyzes **600 retail sales transactions** and turns raw transaction data into a management-ready Excel analysis workflow.
+This project analyzes **600 retail sales transactions** to summarize revenue, cost, profit and sales performance across regions, product categories and months.
 
-The project is designed to answer practical business questions such as:
-
-- Which regions generate the most revenue?
-- Which product categories contribute the most sales?
-- How does revenue change month by month?
-- What is the overall profit margin?
-- Which areas should management investigate further?
-
-## Tools & Skills Demonstrated
+## Tools and Techniques
 
 - Microsoft Excel
 - Data cleaning and structuring
-- Excel Tables
+- Excel tables and formulas
 - SUMIF / COUNTIF
 - IFERROR
 - Date-based analysis
 - Revenue, Cost and Profit calculations
 - KPI analysis
-- Dashboard design
-- Business insight communication
+- Charts and summary reporting
 
-## Dataset Snapshot
+## Dataset Summary
 
 | KPI | Result |
 |---|---:|
@@ -39,7 +30,7 @@ The project is designed to answer practical business questions such as:
 | Highest-Revenue Category | Furniture |
 | Highest-Revenue Month | November 2025 |
 
-> The dataset is synthetic and was created specifically for portfolio, learning and interview demonstration.
+The dataset is synthetic. No client or employer data is used.
 
 ## Repository Structure
 
@@ -55,26 +46,22 @@ retail-sales-excel-dashboard/
 
 ## Analysis Workflow
 
-1. Start with transaction-level sales data.
-2. Validate dates, product categories, regions, prices, discounts and costs.
-3. Calculate:
-   - Revenue
-   - Cost
-   - Profit
-   - Profit Margin
-4. Summarize results by region, category and month.
-5. Build KPI cards and charts for management reporting.
-6. Convert findings into business insights.
+1. Validate dates, product categories, regions, prices, discounts and costs.
+2. Calculate Revenue, Cost, Profit and Profit Margin.
+3. Summarize results by region, category and month.
+4. Compare performance using KPI summaries and charts.
+5. Document the main findings.
 
-## Excel Formulas Practiced
+## Core Calculations
 
 ```excel
 Revenue = Units * Unit Price * (1 - Discount %)
 Cost = Units * Unit Cost
 Profit = Revenue - Cost
+Profit Margin = Profit / Revenue
 ```
 
-Example Excel formulas:
+Example formulas used in the analysis:
 
 ```excel
 =H2*I2*(1-J2)
@@ -87,19 +74,10 @@ Example Excel formulas:
 
 ## Key Findings
 
-- **North** generated the highest regional revenue in this portfolio dataset.
+- **North** generated the highest regional revenue in this dataset.
 - **Furniture** was the highest-revenue product category.
 - **November 2025** was the highest-revenue month.
 - Overall profit margin was approximately **34.7%**.
-
-## Resume-Ready Project Entry
-
-**Retail Sales Performance Dashboard | Excel**
-
-- Analyzed 600 retail transaction records using Excel.
-- Built KPIs for revenue, profit and profit margin.
-- Used formulas and summary analysis to compare regional, product-category and monthly performance.
-- Created a management-ready dashboard structure to communicate business insights.
 
 ## Supporting Files
 
@@ -109,4 +87,4 @@ Example Excel formulas:
 
 ## Note
 
-The completed Excel workbook is maintained as the working analysis file for this project. The GitHub repository contains the reproducible raw dataset, business logic, dashboard preview and project documentation.
+The repository contains the raw dataset, documented calculations, analysis notes and a dashboard preview.
