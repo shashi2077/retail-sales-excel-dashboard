@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="900" height="560" fill="#f7f9fc"/>
+<rect x="25" y="25" width="850" height="90" rx="14" fill="#1f4e78"/>
+<text x="450" y="62" text-anchor="middle" font-family="Arial" font-weight="700" font-size="28" fill="white">Retail Sales Performance Dashboard</text>
+<text x="450" y="91" text-anchor="middle" font-family="Arial" font-size="16" fill="#e8f2fa">Excel Data Analyst Portfolio Project • 600 Transactions</text>
+<text x="45" y="150" font-family="Arial" font-weight="700" font-size="22" fill="#17365d">Revenue by Region</text>
+<text x="50" y="204" font-family="Arial" font-size="18">North</text><rect x="160" y="180" width="520" height="32" rx="6" fill="#2f6f9f"/><text x="690" y="203" font-family="Arial" font-size="15">₹31.0L</text><text x="50" y="274" font-family="Arial" font-size="18">West</text><rect x="160" y="250" width="511" height="32" rx="6" fill="#2f6f9f"/><text x="681.0303247147215" y="273" font-family="Arial" font-size="15">₹31.0L</text><text x="50" y="344" font-family="Arial" font-size="18">South</text><rect x="160" y="320" width="428" height="32" rx="6" fill="#2f6f9f"/><text x="598.3390758986657" y="343" font-family="Arial" font-size="15">₹26.0L</text><text x="50" y="414" font-family="Arial" font-size="18">East</text><rect x="160" y="390" width="323" height="32" rx="6" fill="#2f6f9f"/><text x="492.8152006097253" y="413" font-family="Arial" font-size="15">₹19.0L</text>
+<rect x="45" y="475" width="250" height="58" rx="10" fill="white" stroke="#d9e3ef"/><text x="60" y="498" font-family="Arial" font-size="14" fill="#52606d">Total Revenue</text><text x="60" y="522" font-family="Arial" font-size="22" font-weight="700" fill="#17365d">₹107.0L</text>
+<rect x="325" y="475" width="250" height="58" rx="10" fill="white" stroke="#d9e3ef"/><text x="340" y="498" font-family="Arial" font-size="14" fill="#52606d">Total Profit</text><text x="340" y="522" font-family="Arial" font-size="22" font-weight="700" fill="#17365d">₹37.0L</text>
+<rect x="605" y="475" width="250" height="58" rx="10" fill="white" stroke="#d9e3ef"/><text x="620" y="498" font-family="Arial" font-size="14" fill="#52606d">Profit Margin</text><text x="620" y="522" font-family="Arial" font-size="22" font-weight="700" fill="#17365d">34.7%</text>
+</svg>
